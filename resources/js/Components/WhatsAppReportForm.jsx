@@ -31,7 +31,7 @@ const WhatsAppReportForm = () => {
         }
 
         // Format pesan WhatsApp
-        const waNumber = '6281234567890'; // Nomor Dummy K3L Udinus
+        const waNumber = '6285943695429';
         const lokasiLengkap = `${spesifikasiRuang}, ${zonaGedung}`;
         const message = `*LAPORAN K3L UDINUS*\n\n*Kategori Insiden:* ${kategori}\n*Lokasi:* ${lokasiLengkap}\n*Deskripsi Kejadian:*\n${deskripsi}\n\n_Dilaporkan melalui Portal K3L Udinus_`;
         
