@@ -6,7 +6,7 @@ const EmergencyContactsModal = ({ isOpen, onClose }) => {
     const contacts = [
         { name: 'Poliklinik UDINUS (Kedaruratan Medis)', number: '024-3517261 ext 112' },
         { name: 'Satpam / Keamanan Gedung', number: '024-3517261 ext 115' },
-        { name: 'Satgas K3L Kampus', number: '+62 859-4369-5429' },
+        { name: 'Satgas K3L (Christiyan Wisnu)', number: '+62 812-2840-547' },
         { name: 'Pemadam Kebakaran (Umum)', number: '113' }
     ];
 
