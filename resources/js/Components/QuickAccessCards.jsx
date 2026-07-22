@@ -48,6 +48,14 @@ const QuickAccessCards = () => {
                         <h3>Struktur Organisasi</h3>
                         <p>Lihat daftar penanggung jawab Satgas K3L tingkat Universitas dan Fakultas.</p>
                     </Link>
+
+                    <Link href="/hse" className="card background-none">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ marginBottom: '1rem', color: 'var(--primary)' }}>
+                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                        </svg>
+                        <h3>HSE</h3>
+                        <p>Informasi dan pelaporan terkait Health, Safety, dan Environment (HSE).</p>
+                    </Link>
                 </div>
             </div>
         </section>

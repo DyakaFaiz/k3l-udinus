@@ -45,8 +45,6 @@ const Landing = () => {
 
             <KinerjaK3lStats />
 
-            <SwotSection />
-
             <GallerySection />
 
             <NewsSection />
