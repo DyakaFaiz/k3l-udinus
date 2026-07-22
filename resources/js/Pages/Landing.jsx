@@ -76,8 +76,8 @@ const Landing = () => {
                         </p>
                         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem', fontSize: '0.95rem' }}>
                             <span>📞 Telp: (024) 3517261</span>
-                            <span>📧 Email: sekretariat@dinus.ac.id</span>
-                            <span>🚨 Hotline Darurat K3L: 0812-XXXX-XXXX</span>
+                            <span>📧 Email: k3l@dinus.id</span>
+                            <span>🚨 Hotline Darurat K3L: +62 812-2840-547</span>
                         </div>
                     </div>
 

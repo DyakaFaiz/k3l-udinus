@@ -4,21 +4,15 @@ const BannerSlider = () => {
     const banners = [
         {
             id: 1,
-            title: 'Kampanye Keselamatan Laboratorium',
-            subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.',
-            imgUrl: 'https://via.placeholder.com/1200x400/0A3A69/FFFFFF?text=Kampanye+Keselamatan+Lab'
+            title: 'Latihan Memadamkan Api',
+            subtitle: 'Kegiatan simulasi dan pelatihan tanggap darurat pemadaman api menggunakan APAR bagi mahasiswa.',
+            imgUrl: '/assets/photo/fire-1.jpg'
         },
         {
             id: 2,
-            title: 'Audit Mutu Internal (AMI) 2026',
-            subtitle: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            imgUrl: 'https://via.placeholder.com/1200x400/F3A712/FFFFFF?text=Audit+Mutu+Internal'
-        },
-        {
-            id: 3,
-            title: 'Simulasi Evakuasi Darurat Terpadu',
-            subtitle: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
-            imgUrl: 'https://via.placeholder.com/1200x400/D32F2F/FFFFFF?text=Simulasi+Evakuasi'
+            title: 'Simulasi Tanggap Darurat',
+            subtitle: 'Praktek pemadaman api menggunakan APAR yang dipandu langsung oleh instruktur terlatih.',
+            imgUrl: '/assets/photo/fire-2.jpeg'
         }
     ];
 
