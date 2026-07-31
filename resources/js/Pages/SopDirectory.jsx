@@ -115,7 +115,7 @@ const SopDirectory = () => {
                             <div key={sop.id} className="sop-card">
                                 <h3 style={{ color: 'var(--primary)', marginBottom: '0.5rem' }}>{sop.title}</h3>
                                 <p style={{ color: 'var(--text-main)' }}>{sop.desc}</p>
-                                <a href={`/assets/file/panduan-k3l/${sop.filename}.pdf`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', marginTop: '1rem', background: 'transparent', color: 'var(--secondary)', fontWeight: 'bold', fontSize: '0.95rem', textDecoration: 'none' }}>
+                                <a href={`/storage/files/panduan-k3l/${sop.filename}.pdf`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', marginTop: '1rem', background: 'transparent', color: 'var(--secondary)', fontWeight: 'bold', fontSize: '0.95rem', textDecoration: 'none' }}>
                                     Baca Dokumen ➔
                                 </a>
                             </div>
