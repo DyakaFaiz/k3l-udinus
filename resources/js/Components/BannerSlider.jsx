@@ -6,13 +6,13 @@ const BannerSlider = () => {
             id: 1,
             title: 'Latihan Memadamkan Api',
             subtitle: 'Kegiatan simulasi dan pelatihan tanggap darurat pemadaman api menggunakan APAR bagi mahasiswa.',
-            imgUrl: '/storage/photos/fire-1.jpg'
+            imgUrl: '/photos/fire-1.jpg'
         },
         {
             id: 2,
             title: 'Simulasi Tanggap Darurat',
             subtitle: 'Praktek pemadaman api menggunakan APAR yang dipandu langsung oleh instruktur terlatih.',
-            imgUrl: '/storage/photos/fire-2.jpeg'
+            imgUrl: '/photos/fire-2.jpeg'
         }
     ];
 
