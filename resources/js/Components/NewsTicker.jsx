@@ -4,7 +4,7 @@ const NewsTicker = () => {
     return (
         <div className="news-ticker">
             <div className="news-ticker-content">
-                ⚠️ PENGUMUMAN PENTING: Sedang ada pemeliharaan listrik di Gedung A pada 10:00 - 12:00 WIB. Harap berhati-hati. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚠️ Uji coba alarm kebakaran akan dilakukan esok hari pukul 14:00 WIB.
+                ⚠️ PERHATIAN: Website ini masih dalam tahap pengembangan (versi Dummy) dan belum beroperasi secara resmi. Seluruh fitur, data, dan laporan yang masuk hanya untuk keperluan simulasi.
             </div>
         </div>
     );
