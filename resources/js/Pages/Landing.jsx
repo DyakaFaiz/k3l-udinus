@@ -34,7 +34,7 @@ const Landing = () => {
             <section className="hero-section">
                 <div className="container">
                     <h1>Sistem Pelaporan & Darurat K3L</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Pusat informasi, pelaporan insiden, dan panduan Keselamatan, Kesehatan Kerja, dan Lingkungan (K3L) di lingkungan Universitas Dian Nuswantoro.</p>
                     <EmergencyButtons />
                 </div>
             </section>

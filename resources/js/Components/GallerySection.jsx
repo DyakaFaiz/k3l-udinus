@@ -15,7 +15,7 @@ const GallerySection = () => {
             <div className="container">
                 <div style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
                     <h2 style={{ marginBottom: '0.5rem' }}>Galeri Kegiatan K3L</h2>
-                    <p style={{ color: 'var(--text-muted)' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p style={{ color: 'var(--text-muted)' }}>Dokumentasi aktivitas, pelatihan, dan inspeksi rutin yang dilakukan oleh Satgas K3L Universitas Dian Nuswantoro.</p>
                 </div>
                 
                 <div className="gallery-grid">

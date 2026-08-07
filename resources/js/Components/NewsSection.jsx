@@ -9,21 +9,21 @@ const NewsSection = () => {
             id: 1,
             title: 'Pelatihan Pemadaman Kebakaran Bersama Damkar Semarang',
             date: '28 Juni 2026',
-            excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            excerpt: 'Satgas K3L Universitas Dian Nuswantoro sukses menyelenggarakan simulasi tanggap darurat dan pelatihan penggunaan APAR berkolaborasi dengan Dinas Pemadam Kebakaran.',
             imgUrl: 'https://via.placeholder.com/600x400/0A3A69/FFFFFF?text=Pelatihan+Damkar'
         },
         {
             id: 2,
             title: 'Pemeliharaan Rutin Instalasi Listrik Gedung H',
             date: '25 Juni 2026',
-            excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            excerpt: 'Sebagai langkah pencegahan, tim K3L bersama bagian Sarana & Prasarana rutin melakukan inspeksi dan pemeliharaan instalasi kelistrikan di seluruh gedung.',
             imgUrl: 'https://via.placeholder.com/600x400/0A3A69/FFFFFF?text=Pemeliharaan+Listrik'
         },
         {
             id: 3,
             title: 'Audit K3L Tahunan Dinyatakan Sangat Baik',
             date: '10 Juni 2026',
-            excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+            excerpt: 'Berdasarkan penilaian eksternal yang dilakukan bulan ini, penerapan sistem manajemen Keselamatan dan Kesehatan Kerja (K3) di lingkungan kampus meraih predikat Sangat Baik.',
             imgUrl: 'https://via.placeholder.com/600x400/0A3A69/FFFFFF?text=Audit+K3L'
         }
     ];

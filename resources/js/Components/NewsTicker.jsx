@@ -4,7 +4,7 @@ const NewsTicker = () => {
     return (
         <div className="news-ticker">
             <div className="news-ticker-content">
-                ⚠️ PERHATIAN: Website ini masih dalam tahap pengembangan (versi Dummy) dan belum beroperasi secara resmi. Seluruh fitur, data, dan laporan yang masuk hanya untuk keperluan simulasi.
+                Selamat datang di Portal Keselamatan, Kesehatan Kerja, dan Lingkungan (K3L) Universitas Dian Nuswantoro. &nbsp;&nbsp;&nbsp;&nbsp; ⚠️ PERHATIAN: Website ini masih dalam tahap pengembangan dan belum beroperasi secara resmi.
             </div>
         </div>
     );

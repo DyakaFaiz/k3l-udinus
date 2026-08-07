@@ -13,7 +13,7 @@ const QuickAccessCards = () => {
                             <path d="M15 5.764v15"/><path d="M9 3.236v15"/>
                         </svg>
                         <h3>Peta Evakuasi Gedung</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        <p>Kenali jalur evakuasi dan titik kumpul (assembly point) pada setiap gedung di Universitas Dian Nuswantoro.</p>
                     </Link>
                     
                     <Link href="/sop-panduan" className="card background-none">
@@ -21,7 +21,7 @@ const QuickAccessCards = () => {
                             <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/>
                         </svg>
                         <h3>Panduan K3L & SOP</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        <p>Akses dokumen Standard Operating Procedure (SOP) dan panduan K3L resmi universitas.</p>
                     </Link>
 
                     <Link href="/komplain" className="card background-none">

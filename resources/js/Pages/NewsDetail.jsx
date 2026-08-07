@@ -8,11 +8,11 @@ const NewsDetail = ({ newsId }) => {
         date: '28 Juni 2026',
         imgUrl: 'https://via.placeholder.com/1200x500/0A3A69/FFFFFF?text=Berita+K3L',
         content: `
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <h3 style="margin-top: 2rem; margin-bottom: 1rem; color: var(--primary);">Sub Judul Berita</h3>
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+            <p>Satgas Keselamatan, Kesehatan Kerja, dan Lingkungan (K3L) Universitas Dian Nuswantoro bekerjasama dengan Dinas Pemadam Kebakaran (Damkar) Kota Semarang sukses menyelenggarakan simulasi tanggap darurat dan pelatihan penggunaan Alat Pemadam Api Ringan (APAR) di pelataran Gedung G, Kamis pagi.</p>
+            <p>Kegiatan yang diikuti oleh puluhan perwakilan mahasiswa, dosen, serta tenaga kependidikan ini bertujuan untuk meningkatkan kesiapsiagaan seluruh elemen kampus dalam menghadapi situasi darurat kebakaran. Dalam simulasi tersebut, peserta tidak hanya diberikan pemahaman teoritis tentang klasifikasi api, tetapi juga praktek langsung memadamkan titik api buatan.</p>
+            <h3 style="margin-top: 2rem; margin-bottom: 1rem; color: var(--primary);">Pentingnya Kesiapsiagaan Dini</h3>
+            <p>Koordinator K3L UDINUS menekankan bahwa pengetahuan cara penggunaan APAR adalah kemampuan dasar yang wajib dimiliki oleh sivitas akademika. "Banyak kasus kebakaran besar berawal dari titik api kecil yang gagal dipadamkan karena kepanikan dan ketidaktahuan cara menggunakan alat pemadam," jelasnya.</p>
+            <p>Ke depannya, Satgas K3L berencana untuk menjadikan agenda pelatihan semacam ini sebagai kegiatan rutin setiap semester. Sivitas akademika diimbau untuk selalu memeriksa jalur evakuasi dan lokasi APAR terdekat di masing-masing gedung tempat mereka beraktivitas.</p>
         `
     };
 
